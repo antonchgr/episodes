@@ -1,3 +1,5 @@
 # episodes
 
-0060 - Page Splits
+Episode # | Title
+60 | Page Splits
+61 | Using Extended Properties

@@ -7,5 +7,6 @@
 | 62 | [TSQL Functions](https://github.com/antonchgr/episodes/tree/main/E62) | SQL Server 2022, What's New | 16/08/2022 |
 | 63 | [Time Series Functions](https://github.com/antonchgr/episodes/tree/main/E63) |  SQL Server 2022, What's New | 18/08/2022 |
 | 64 | [Bit Manipulation Functions](https://github.com/antonchgr/episodes/tree/main/E64) |  SQL Server 2022, What's New | 19/08/2022 |
+| 65 | [SQL Windowing Enhancements](https://github.com/antonchgr/episodes/tree/main/E65) |  SQL Server 2022, What's New | 19/08/2022 |
 
 

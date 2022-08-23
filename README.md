@@ -8,5 +8,6 @@
 | 63 | [Time Series Functions](https://github.com/antonchgr/episodes/tree/main/E63) |  SQL Server 2022, What's New | 18/08/2022 |
 | 64 | [Bit Manipulation Functions](https://github.com/antonchgr/episodes/tree/main/E64) |  SQL Server 2022, What's New | 19/08/2022 |
 | 65 | [SQL Windowing Enhancements](https://github.com/antonchgr/episodes/tree/main/E65) |  SQL Server 2022, What's New | 22/08/2022 |
+| 66 | [Distinct Predicates](https://github.com/antonchgr/episodes/tree/main/E66) |  SQL Server 2022, What's New | 23/08/2022 |
 
 

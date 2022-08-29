@@ -12,5 +12,5 @@
 | 67 | [The Approximate Percentile Functions](https://github.com/antonchgr/episodes/tree/main/E67) |  SQL Server 2022, What's New | 24/08/2022 |
 | 68 | [New JSON Functions](https://github.com/antonchgr/episodes/tree/main/E68) |  SQL Server 2022, What's New | 25/08/2022 |
 | 69 | [Statistics AUTO_DROP](https://github.com/antonchgr/episodes/tree/main/E69) |  SQL Server 2022, What's New | 26/08/2022 |
-
+| 70 | [Resumable Table Constraints](https://github.com/antonchgr/episodes/tree/main/E70) |  SQL Server 2022, What's New | 29/08/2022 |
 

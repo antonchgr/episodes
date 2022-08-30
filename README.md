@@ -14,4 +14,4 @@
 | 69 | [Statistics AUTO_DROP](https://github.com/antonchgr/episodes/tree/main/E69) |  SQL Server 2022, What's New | 26/08/2022 |
 | 70 | [Resumable Table Constraints](https://github.com/antonchgr/episodes/tree/main/E70) |  SQL Server 2022, What's New | 29/08/2022 |
 | 71 | [Accelerated Database Recovery (ADR) improvements](https://github.com/antonchgr/episodes/tree/main/E71) |  SQL Server 2022, What's New | 30/08/2022 |
-| 72 | [Accelerated Database Recovery (ADR) improvements](https://github.com/antonchgr/episodes/tree/main/E71) |  SQL Server 2022, What's New | 30/08/2022 |
+| 72 | [Trim Functions Improvements](https://github.com/antonchgr/episodes/tree/main/E72) |  SQL Server 2022, What's New | 31/08/2022 |

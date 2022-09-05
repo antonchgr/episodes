@@ -3,4 +3,4 @@
 
 Click on image to watch the video
 
-[![Watch the video](https://github.com/antonchgr/episodes/blob/main/E73/ytimage.png)](https://youtu.be/MI_g-3VVLBo)
+[![Watch the video](./ytimage.png)](https://youtu.be/MI_g-3VVLBo)

@@ -15,3 +15,4 @@
 | 70 | [Resumable Table Constraints](https://github.com/antonchgr/episodes/tree/main/E70) |  SQL Server 2022, What's New | 29/08/2022 |
 | 71 | [Accelerated Database Recovery (ADR) improvements](https://github.com/antonchgr/episodes/tree/main/E71) |  SQL Server 2022, What's New | 30/08/2022 |
 | 72 | [Trim Functions Improvements](https://github.com/antonchgr/episodes/tree/main/E72) |  SQL Server 2022, What's New | 31/08/2022 |
+| 73 | [Virtual Log File growth changes](https://github.com/antonchgr/episodes/tree/main/E73) |  SQL Server 2022, What's New | 05/09/2022 |

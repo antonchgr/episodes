@@ -1,2 +1,6 @@
-[![Watch the video](https://img.youtube.com/vi/dwZSBRDVZSY/default.jpg)](https://youtu.be/dwZSBRDVZSY)
+# Episode video
+
+Click on image to watch the video
+
+[![Watch the video](./ytimage.png)](https://youtu.be/dwZSBRDVZSY)
 

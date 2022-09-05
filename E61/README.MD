@@ -2,4 +2,4 @@
 
 Click on image to watch the video
 
-[![Watch the video](./ytimage.png)](https://youtu.be/3EQdIYaU1Eo)
+[![Watch the video](./ytimages.png)](https://youtu.be/3EQdIYaU1Eo)

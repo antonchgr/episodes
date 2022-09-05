@@ -2,5 +2,5 @@
 
 Click on image to watch the video
 
-[![Watch the video](./ytimage.png)](https://https://youtu.be/m7_Yq0se7Ec)
+[![Watch the video](./ytimage.png)](https://youtu.be/m7_Yq0se7Ec)
 

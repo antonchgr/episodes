@@ -20,4 +20,4 @@
 | 72 | [Trim Functions Improvements](https://github.com/antonchgr/episodes/tree/main/E72) |  SQL Server 2022, What's New | 31/08/2022 |
 | 73 | [Virtual Log File growth changes](https://github.com/antonchgr/episodes/tree/main/E73) |  SQL Server 2022, What's New | 05/09/2022 |
 | 74 | [XML Compression - SQL Server 2022 - What's New](https://github.com/antonchgr/episodes/tree/main/E74) |  SQL Server 2022, What's New | 06/09/2022 |
-| 75 | [Dynamic Data Masking - SQL Server 2022 - What's new in Security](https://github.com/antonchgr/episodes/tree/main/E75) |  SQL Server 2022, What's New | 07/09/2022 |
+| 75 | [Dynamic Data Masking](https://github.com/antonchgr/episodes/tree/main/E75) |  SQL Server 2022, What's New | 07/09/2022 |

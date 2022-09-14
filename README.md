@@ -22,4 +22,4 @@
 | 74 | [XML Compression](https://github.com/antonchgr/episodes/tree/main/E74) |  SQL Server 2022, What's New | 06/09/2022 |
 | 75 | [Dynamic Data Masking](https://github.com/antonchgr/episodes/tree/main/E75) |  SQL Server 2022, What's New | 07/09/2022 |
 | 76 | [New Fixed Server Roles and Permissions](https://github.com/antonchgr/episodes/tree/main/E76) |  SQL Server 2022, What's New | 12/09/2022 |
-
+| 77 | [Improved backup metadata](https://github.com/antonchgr/episodes/tree/main/E77) |  SQL Server 2022, What's New | 14/09/2022 |

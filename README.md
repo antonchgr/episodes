@@ -1,6 +1,6 @@
 # episodes
 
-| Episode # | Title | Category | Date |
+| # | Title | Category | Date |
 | ---: | :--- | :--- | :---: |
 | 57 | [Send Notification Email from Data Factory or Azure Synapse pipeline](https://github.com/antonchgr/episodes/tree/main/E57) | Azure Synapse | 13/02/2022 |
 | 58 | [Implementing Slowly Change Dimension in Azure Synapse SQL pool](https://github.com/antonchgr/episodes/tree/main/E58) | Azure Synapse | 23/02/2022 |
@@ -23,3 +23,4 @@
 | 75 | [Dynamic Data Masking](https://github.com/antonchgr/episodes/tree/main/E75) |  SQL Server 2022, What's New | 07/09/2022 |
 | 76 | [New Fixed Server Roles and Permissions](https://github.com/antonchgr/episodes/tree/main/E76) |  SQL Server 2022, What's New | 12/09/2022 |
 | 77 | [Improved backup metadata](https://github.com/antonchgr/episodes/tree/main/E77) |  SQL Server 2022, What's New | 14/09/2022 |
+| 78 | [Auto Update Statistics Async with Low Priority](https://github.com/antonchgr/episodes/tree/main/E78) |  SQL Server 2022, What's New | 19/09/2022 |

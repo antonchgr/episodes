@@ -25,3 +25,5 @@
 | 77 | [Improved backup metadata](https://github.com/antonchgr/episodes/tree/main/E77) |  SQL Server 2022, What's New | 14/09/2022 |
 | 78 | [Auto Update Statistics Async with Low Priority](https://github.com/antonchgr/episodes/tree/main/E78) |  SQL Server 2022, What's New | 19/09/2022 |
 | 79 | [Transact-SQL snapshot backup](https://github.com/antonchgr/episodes/tree/main/E79) |  SQL Server 2022, What's New | 21/09/2022 |
+| 80 | [TDS 8.0 and TLS 1.3 support](https://github.com/antonchgr/episodes/tree/main/E81) |  SQL Server 2022, What's New | 02/10/2022 |
+| 81 | [Crypto and Encryption Enhancements](https://github.com/antonchgr/episodes/tree/main/E81) |  SQL Server 2022, What's New | 03/10/2022 |

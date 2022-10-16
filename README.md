@@ -29,3 +29,4 @@
 | 81 | [Crypto and Encryption Enhancements](https://github.com/antonchgr/episodes/tree/main/E81) |  SQL Server 2022, What's New | 03/10/2022 |
 | 82 | [The Ledger](https://github.com/antonchgr/episodes/tree/main/E82) |  SQL Server 2022, What's New | 07/10/2022 |
 | 83 | [SQL Server backup to URL for S3-compatible object storage](https://github.com/antonchgr/episodes/tree/main/E83) |  SQL Server 2022, What's New | 10/10/2022 |
+| 84 | [Parameter Sensitive Plan Optimization](https://github.com/antonchgr/episodes/tree/main/E83) |  SQL Server 2022, What's New | 16/10/2022 |

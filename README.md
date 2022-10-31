@@ -32,4 +32,4 @@
 | 84 | [Parameter Sensitive Plan Optimization](https://github.com/antonchgr/episodes/tree/main/E84) |  SQL Server 2022, What's New | 16/10/2022 |
 | 85 | [Data Lake Virtualization with S3 compatible object Storage](https://github.com/antonchgr/episodes/tree/main/E85) |  SQL Server 2022, What's New | 18/10/2022 |
 | 86 | [Azure Synapse Link for SQL](https://github.com/antonchgr/episodes/tree/main/E86) |  SQL Server 2022, What's New | 23/10/2022 |
-| 87 | [Query Store Hints](https://github.com/antonchgr/episodes/tree/main/E87) |  SQL Server 2022, What's New | 01/11/2022 |
+| 87 | [Query Store Hints](https://github.com/antonchgr/episodes/tree/main/E87) |  SQL Server 2022, What's New | 31/10/2022 |

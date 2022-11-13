@@ -36,3 +36,4 @@
 | 88 | [Cardinality Estimation (CE) Feedback](https://github.com/antonchgr/episodes/tree/main/E88) |  SQL Server 2022, What's New | 01/11/2022 |
 | 89 | [Degree of Parallelism (DOP) Feedback](https://github.com/antonchgr/episodes/tree/main/E89) |  SQL Server 2022, What's New | 02/11/2022 |
 | 90 | [Optimized Plan Forcing](https://github.com/antonchgr/episodes/tree/main/E90) |  SQL Server 2022, What's New | 05/11/2022 |
+| 91 | [Memory Grant Feedback Persistence](https://github.com/antonchgr/episodes/tree/main/E91) |  SQL Server 2022, What's New | 13/11/2022 |

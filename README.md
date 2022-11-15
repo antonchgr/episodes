@@ -37,3 +37,4 @@
 | 89 | [Degree of Parallelism (DOP) Feedback](https://github.com/antonchgr/episodes/tree/main/E89) |  SQL Server 2022, What's New | 02/11/2022 |
 | 90 | [Optimized Plan Forcing](https://github.com/antonchgr/episodes/tree/main/E90) |  SQL Server 2022, What's New | 05/11/2022 |
 | 91 | [Memory Grant Feedback Persistence](https://github.com/antonchgr/episodes/tree/main/E91) |  SQL Server 2022, What's New | 13/11/2022 |
+| 92 | [Query Store and Secondary Replicas](https://github.com/antonchgr/episodes/tree/main/E92) |  SQL Server 2022, What's New | 15/11/2022 |

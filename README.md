@@ -39,3 +39,4 @@
 | 91 | [Memory Grant Feedback Persistence](https://github.com/antonchgr/episodes/tree/main/E91) |  SQL Server 2022, What's New | 13/11/2022 |
 | 92 | [Query Store and Secondary Replicas](https://github.com/antonchgr/episodes/tree/main/E92) |  SQL Server 2022, What's New | 15/11/2022 |
 | 93 | [System page latch concurrency enhancements](https://github.com/antonchgr/episodes/tree/main/E93) |  SQL Server 2022, What's New | 01/12/2022 |
+| 94 | [Contained Availability Groups](https://github.com/antonchgr/episodes/tree/main/E94) |  SQL Server 2022, What's New | 03/12/2022 |

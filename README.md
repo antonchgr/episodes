@@ -40,3 +40,4 @@
 | 92 | [Query Store and Secondary Replicas](https://github.com/antonchgr/episodes/tree/main/E92) |  SQL Server 2022, What's New | 15/11/2022 |
 | 93 | [System page latch concurrency enhancements](https://github.com/antonchgr/episodes/tree/main/E93) |  SQL Server 2022, What's New | 01/12/2022 |
 | 94 | [Contained Availability Groups](https://github.com/antonchgr/episodes/tree/main/E94) |  SQL Server 2022, What's New | 03/12/2022 |
+| 95 | [Azure Arc enabled SQL Server and PAYG Licensing](https://github.com/antonchgr/episodes/tree/main/E95) |  SQL Server 2022, What's New | 05/12/2022 |

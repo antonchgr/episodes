@@ -19,7 +19,7 @@
 | 71 | [Accelerated Database Recovery (ADR) improvements](https://github.com/antonchgr/episodes/tree/main/E71) | SQL Server 2022 | 30/08/2022 |
 | 72 | [Trim Functions Improvements](https://github.com/antonchgr/episodes/tree/main/E72) | SQL Server 2022 | 31/08/2022 |
 | 73 | [Virtual Log File growth changes](https://github.com/antonchgr/episodes/tree/main/E73) | SQL Server 2022 | 05/09/2022 |
-| 74 | [XML Compression](https://github.com/antonchgr/episodes/tree/main/E74) | SQL Server 2022w | 06/09/2022 |
+| 74 | [XML Compression](https://github.com/antonchgr/episodes/tree/main/E74) | SQL Server 2022 | 06/09/2022 |
 | 75 | [Dynamic Data Masking](https://github.com/antonchgr/episodes/tree/main/E75) | SQL Server 2022 | 07/09/2022 |
 | 76 | [New Fixed Server Roles and Permissions](https://github.com/antonchgr/episodes/tree/main/E76) | SQL Server 2022 | 12/09/2022 |
 | 77 | [Improved backup metadata](https://github.com/antonchgr/episodes/tree/main/E77) | SQL Server 2022 | 14/09/2022 |

@@ -43,3 +43,4 @@
 | 95 | [Azure Arc enabled SQL Server and PAYG Licensing](https://github.com/antonchgr/episodes/tree/main/E95) | SQL Server 2022 | 05/12/2022 |
 | 96 | [SQL Server 2022 Revealed](https://github.com/antonchgr/episodes/tree/main/E96) | SQL Server 2022 | 12/12/2022 |
 | 97 | [Working with Hypothetical Indexes](https://github.com/antonchgr/episodes/tree/main/E97) | SQL Server | 18/12/2022 |
+| 98 | [Monitor Auto Update Statistics](https://github.com/antonchgr/episodes/tree/main/E98) | SQL Server | 29/12/2022 |

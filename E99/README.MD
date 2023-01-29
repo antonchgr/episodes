@@ -1,5 +1,5 @@
 # HellasGate2022 database
-Donwload for http://sqlschool.gr/downloads/hellasgate2022-e99.zip
+Donwload from http://sqlschool.gr/downloads/hellasgate2022-e99.zip
 Requiered SQL Server 2022
 
 # Episode video

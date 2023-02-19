@@ -45,3 +45,4 @@
 | 97 | [Working with Hypothetical Indexes](https://github.com/antonchgr/episodes/tree/main/E97) | SQL Server | 18/12/2022 |
 | 98 | [Monitor Auto Update Statistics](https://github.com/antonchgr/episodes/tree/main/E98) | SQL Server | 29/12/2022 |
 | 99 | [Row-level Security in SQL Server](https://github.com/antonchgr/episodes/tree/main/E99) | SQL Server | 30/01/2023 |
+| 100 | [Introduction to Encryption in SQL Server](https://github.com/antonchgr/episodes/tree/main/E100) | SQL Server | 19/02/2023 |

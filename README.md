@@ -47,4 +47,4 @@
 | 99 | [Row-level Security in SQL Server](https://github.com/antonchgr/episodes/tree/main/E99) | SQL Server | 30/01/2023 |
 | 100 | [Introduction to Encryption in SQL Server](https://github.com/antonchgr/episodes/tree/main/E100) | SQL Server | 19/02/2023 |
 | 101 | [Encrypted Backups](https://github.com/antonchgr/episodes/tree/main/E101) | SQL Server | 21/02/2023 |
-| 101 | [Transparent Data Encryption (TDE)](https://github.com/antonchgr/episodes/tree/main/E102) | SQL Server | 26/02/2023 |
+| 102 | [Transparent Data Encryption (TDE)](https://github.com/antonchgr/episodes/tree/main/E102) | SQL Server | 26/02/2023 |

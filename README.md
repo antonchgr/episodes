@@ -48,3 +48,4 @@
 | 100 | [Introduction to Encryption in SQL Server](https://github.com/antonchgr/episodes/tree/main/E100) | SQL Server | 19/02/2023 |
 | 101 | [Encrypted Backups](https://github.com/antonchgr/episodes/tree/main/E101) | SQL Server | 21/02/2023 |
 | 102 | [Transparent Data Encryption (TDE)](https://github.com/antonchgr/episodes/tree/main/E102) | SQL Server | 26/02/2023 |
+| 103 | [Introduction to Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E103) | Microsoft Fabric | 11/06/2023 |

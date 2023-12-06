@@ -51,3 +51,4 @@
 | 103 | [Introduction to Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E103) | Microsoft Fabric | 11/06/2023 |
 | 104 | [Lakehouses in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E104) | Microsoft Fabric | 02/12/2023 |
 | 105 | [Use Apache Spark in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E105) | Microsoft Fabric | 04/12/2023 |
+| 106 | [Working with Delta Lake tables in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E106) | Microsoft Fabric | 06/12/2023 |

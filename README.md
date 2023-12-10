@@ -52,4 +52,5 @@
 | 104 | [Lakehouses in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E104) | Microsoft Fabric | 02/12/2023 |
 | 105 | [Use Apache Spark in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E105) | Microsoft Fabric | 04/12/2023 |
 | 106 | [Working with Delta Lake tables in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E106) | Microsoft Fabric | 06/12/2023 |
-| 107 | [Dataflows (Gen2) in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E106) | Microsoft Fabric | 08/12/2023 |
+| 107 | [Dataflows (Gen2) in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E107) | Microsoft Fabric | 08/12/2023 |
+| 108 | [Data Factory pipelines in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E108) | Microsoft Fabric | 10/12/2023 |

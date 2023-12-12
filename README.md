@@ -1,4 +1,4 @@
-# episodes
+# Data episodes
 
 | # | Title | Category | Date |
 | ---: | :--- | :--- | :---: |

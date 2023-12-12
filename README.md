@@ -54,3 +54,4 @@
 | 106 | [Working with Delta Lake tables in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E106) | Microsoft Fabric | 06/12/2023 |
 | 107 | [Dataflows (Gen2) in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E107) | Microsoft Fabric | 08/12/2023 |
 | 108 | [Data Factory pipelines in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E108) | Microsoft Fabric | 10/12/2023 |
+| 109 | [Medallion Architecture in a Microsoft Fabric lakehouse](https://github.com/antonchgr/episodes/tree/main/E109) | Microsoft Fabric | 12/12/2023 |

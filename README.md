@@ -55,3 +55,4 @@
 | 107 | [Dataflows (Gen2) in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E107) | Microsoft Fabric | 08/12/2023 |
 | 108 | [Data Factory pipelines in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E108) | Microsoft Fabric | 10/12/2023 |
 | 109 | [Medallion Architecture in a Microsoft Fabric lakehouse](https://github.com/antonchgr/episodes/tree/main/E109) | Microsoft Fabric | 12/12/2023 |
+| 110 | [Data Warehouses in a Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E110) | Microsoft Fabric | 17/12/2023 |

@@ -57,3 +57,4 @@
 | 109 | [Medallion Architecture in a Microsoft Fabric lakehouse](https://github.com/antonchgr/episodes/tree/main/E109) | Microsoft Fabric | 12/12/2023 |
 | 110 | [Data Warehouses in a Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E110) | Microsoft Fabric | 17/12/2023 |
 | 111 | [OneLake in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E111) | Microsoft Fabric | 28/12/2023 |
+| 112 | [OneLake Shortcuts in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E112) | Microsoft Fabric | 30/12/2023 |

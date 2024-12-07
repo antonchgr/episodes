@@ -1,4 +1,4 @@
-# Data episodes Part 1
+# Data Episodes Part 1
 
 | # | Title | Category | Date |
 | ---: | :--- | :--- | :---: |

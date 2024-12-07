@@ -1,4 +1,4 @@
-# Data episodes 2022-2023
+# Data episodes Part 1
 
 | # | Title | Category | Date |
 | ---: | :--- | :--- | :---: |

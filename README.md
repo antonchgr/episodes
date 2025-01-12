@@ -1,5 +1,6 @@
 # Data Episodes Part 1
 
+
 | # | Title | Category | Date |
 | ---: | :--- | :--- | :---: |
 | 57 | [Send Notification Email from Data Factory or Azure Synapse pipeline](https://github.com/antonchgr/episodes/tree/main/E57) | Azure Synapse | 13/02/2022 |
@@ -58,3 +59,6 @@
 | 110 | [Data Warehouses in a Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E110) | Microsoft Fabric | 17/12/2023 |
 | 111 | [OneLake in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E111) | Microsoft Fabric | 28/12/2023 |
 | 112 | [OneLake Shortcuts in Microsoft Fabric](https://github.com/antonchgr/episodes/tree/main/E112) | Microsoft Fabric | 30/12/2023 |
+
+
+[View Data Episodes Part 2](https://github.com/antonchgr/dataepisodes2024)
